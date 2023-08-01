@@ -25,12 +25,21 @@ The aim of this analysis is to explore these questions:
 **Key Insights**
 * `Europe` as a continent has the best SPI score.
 - `Africa` ranks lowest in SPI score.
+  
+  ![visualization (5)](https://github.com/smahi3003/SPI-Analysis/assets/36812924/97c4ca69-c16f-4225-96f7-6ee9567d52c2)
+
 - Top 4 factors affecting the SPI score are
     1. Wellbeing
     2. Opportunity
     3. Access to advanced education
     4. Access to information and communication
+       
+   ![image](https://github.com/smahi3003/SPI-Analysis/assets/36812924/c959eb1b-0022-49f1-9cd1-ee646cc79f4f)
+
+
 - Africa can improve its SPI score by making improvements in its education and information and communication sector.
+  ![visualization (6)](https://github.com/smahi3003/SPI-Analysis/assets/36812924/b9e607c7-909e-4fea-83eb-ba0a925f546a)
+
 - `57` countries out of 168 fall under the category of `High SPI score`
 - `61%` of High SPI-scoring countries are in Europe.
 - Africa only has 1 country in the High SPI category and that is `Mauritius`.
